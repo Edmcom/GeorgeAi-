@@ -1,5 +1,6 @@
 {
     "github-actions.workflows.pinned.workflows": [
         ".github/workflows/azure-webapps-node.yml"
-    ]
+    ],
+    "editor.gotoLocation.alternativeDeclarationCommand": "editor.action.revealDeclaration"
 }
